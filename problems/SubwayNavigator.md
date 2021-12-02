@@ -94,6 +94,6 @@ Your function must return or print the number of stations traversed from start t
 
 ## Extensions
 
-How would you extend this program to accomodate distance traveled between each station?
-How would you deal with invalid start and end points?
-What information must you assume about a passenger based on the given information?
+- How would you extend this program to accomodate distance traveled between each station?
+- How would you deal with invalid start and end points?
+- What information must you assume about a passenger based on the given information?

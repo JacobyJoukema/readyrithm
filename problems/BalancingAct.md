@@ -18,7 +18,7 @@ Input will be a list of integers provided through standard input representing th
 
 ### Examples
 
-1. `100 125 150 120 90 95`
+1. `100 125 150 120 90 95 90`
 2. `100`
 3. `135 150 120 90 90 55`
 4. `90 90 90 90 90 90 90`

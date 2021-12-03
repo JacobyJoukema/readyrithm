@@ -33,7 +33,7 @@ Your function must return or print the maximum height of the inverted pyramid. T
 
 1. `3`
 2. `1`
-3. `3`
+3. `w`
 4. `2`
 5. `1`
 6. `3`

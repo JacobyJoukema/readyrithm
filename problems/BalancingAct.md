@@ -18,12 +18,12 @@ Input will be a list of integers provided through standard input representing th
 
 ### Examples
 
-1. 100 125 150 120 90 95
-2. 100
-3. 135 150 120 90 90 55
-4. 90 90 90 90 90 90 90
-5. 150 250
-6. 75 250 50 50 45 45
+1. `100 125 150 120 90 95`
+2. `100`
+3. `135 150 120 90 90 55`
+4. `90 90 90 90 90 90 90`
+5. `150 250`
+6. `75 250 50 50 45 45`
 
 ## Output
 
@@ -31,12 +31,12 @@ Your function must return or print the maximum height of the inverted pyramid. T
 
 ### Examples
 
-1. 3
-2. 1
-3. 3
-4. 2
-5. 1
-6. 3
+1. `3`
+2. `1`
+3. `3`
+4. `2`
+5. `1`
+6. `3`
 
 ## Extensions
 

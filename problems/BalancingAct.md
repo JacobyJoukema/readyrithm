@@ -2,7 +2,7 @@
 
 ## Overview
 
-A local strongman competition has been booked in the same location as a cheerleading competition. The strongmen want to demonstrate their strength to the cheerleaders and lift as many of them as possible. A strongman can support the total weights of all the cheerleaders as long as the total weight in each hand are within 50 lbs of one another. Each cheerleader can support the weights of cheerleaders that weigh less then them but they cannot balance unless they have a cheerleader in each hand. Their goal is to build the largest inverted period with a strongman supporting the base. For example the following inverted pyramid has a height of 3
+A local strongman competition has been booked in the same location as a cheerleading competition. The strongmen want to demonstrate their strength to the cheerleaders and lift as many of them as possible. A strongman can support the total weights of all the cheerleaders as long as the total weight in each hand are within 50 lbs of one another. Each cheerleader can support the weights of cheerleaders that weigh less then them but they cannot balance unless they have a cheerleader in each hand. Their goal is to build the largest inverted pyramid with a strongman supporting the base. For example the following inverted pyramid has a height of 3
 
         C  C C  C
          \ / \ /
@@ -41,4 +41,4 @@ Your function must return or print the maximum height of the inverted pyramid. T
 ## Extensions
 
 - How would you extend this program if each individuals left arm was weaker then their right arm and therefore could only hold less weight on one side?
-- How would your solution change the cheerleaders were trying to build the largest non-inverted pyramid and each layer could only support less weight then the layers above it?
+- How would your solution change if the cheerleaders were trying to build the largest non-inverted pyramid and each layer could only support less weight then the layers above it?

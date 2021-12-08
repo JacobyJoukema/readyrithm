@@ -23,8 +23,8 @@ Your function must return or print the height of each tree in the following form
 ### Examples
 
 1. `6 8`
-2. `8 8`
-3. `8 8`
+2. `10 10`
+3. `10 10`
 4. `1 1`
 5. `3 3`
 

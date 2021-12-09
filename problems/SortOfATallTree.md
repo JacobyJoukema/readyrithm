@@ -13,9 +13,8 @@ Input will be a list of integers provided through standard input
 1. `100 190 19 85 78 10 60 50`
 2. `1 2 3 4 5 6 7 8 9 10`
 3. `10 9 8 7 6 5 4 3 2 1`
-4. `78 78 78 78 78 78`
-5. `3`
-6. `1 5 4`
+4. `3`
+5. `1 5 4`
 
 ## Output
 
@@ -24,11 +23,10 @@ Your function must return or print the height of each tree in the following form
 ### Examples
 
 1. `6 8`
-2. `8 8`
-3. `8 8`
-4. `8 8`
-5. `1 1`
-6. `3 3`
+2. `10 10`
+3. `10 10`
+4. `1 1`
+5. `3 3`
 
 ## Extensions
 

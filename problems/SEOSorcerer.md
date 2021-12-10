@@ -2,7 +2,7 @@
 
 ## Overview
 
-A digital marketing agency is looking to build a backlink explorer so they can easily identify websites that reference their clients products and services. A member of your team has written a web scrapping tool that generates a list of urls and the links that each page has on it's site. Links can be categorized as internal, meaning they point to somewhere else on the same site, or external, meaning they point to a different site entirely. Given a list of urls and their referenced links create a function that returns the total number of internal links and external links that point to each site. URLs will always be given without a subdomain or protocol. A site can be defined as a collection of pages with a common domain name.
+A digital marketing agency is looking to build a backlink explorer so they can easily identify websites that reference their clients products and services. A member of your team has written a web scraping tool that generates a list of urls and the links that each page has on it's site. Links can be categorized as internal, meaning they point to somewhere else on the same site, or external, meaning they point to a different site entirely. Given a list of urls and the links on those pages create a function that returns the total number of internal links and external links for each site. URLs will always be given without a subdomain or protocol. A site can be defined as a collection of pages with a common domain name.
 
 ## Input
 
